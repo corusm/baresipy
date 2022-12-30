@@ -112,7 +112,7 @@ module			g711.so
 module			auconv.so
 module			auresamp.so
 #module			vumeter.so
-#module			sndfile.so
+module			sndfile.so
 #module			plc.so
 #module			webrtc_aec.so
 
