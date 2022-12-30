@@ -37,7 +37,7 @@ call_hold_other_calls	yes
 
 # Audio
 #audio_path		/usr/local/share/baresip
-audio_player		alsa,default
+audio_player		plughw:1,0
 audio_source		alsa,default
 audio_alert		alsa,default
 #ausrc_srate		48000
