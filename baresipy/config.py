@@ -273,7 +273,7 @@ video_selfview		window # {window,pip}
 #mqtt_basetopic		baresip/01
 
 # sndfile
-snd_path		/home/niklas/dev/voice
+snd_path		/tmp
 
 # EBU ACIP
 #ebuacip_jb_type	fixed	# auto,fixed
